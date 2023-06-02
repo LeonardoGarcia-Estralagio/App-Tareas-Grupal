@@ -1,4 +1,5 @@
-const { leerJSON } = require("../data");
+const { leerJSON,escribirJSON } = require("../data");
+
 
 
 const editar = function (clase, estado) {
